@@ -1,6 +1,0 @@
-{
-    "fever": "Possible conditions: Flu, COVID-19, Common Cold",
-    "cough": "Possible conditions: Bronchitis, Asthma, Common Cold",
-    "headache": "Possible conditions: Migraine, Dehydration, Stress",
-    "fatigue": "Possible conditions: Anemia, Thyroid Disorder, Sleep Deprivation"
-}
